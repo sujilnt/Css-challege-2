@@ -1,0 +1,21 @@
+body{
+    background:#00CCFF;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    padding:0;
+    margin:0;
+    width:100%;
+}
+#wrap ul li{
+   list-style: none;
+   text-align: center;
+}
+#wrap ul{
+    margin:0 auto;
+    padding:0px;
+}
+#wrap p , #wrap h1{
+    padding-left: 15px;
+}
+#wrap ul li::first-letter{
+    font-size: 140%;
+}
