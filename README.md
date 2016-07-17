@@ -54,4 +54,4 @@ Here is the image :-
   </body>
 </html>
 ```
-Here is the url of that I done : 
+Here is the url of that I done : https://sujilnt.github.io/Css-challege-2/
